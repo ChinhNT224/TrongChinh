@@ -58,7 +58,8 @@ namespace TrongChinh
 
             while (true)
             {
-                Console.WriteLine("========== Student Management System ==========");
+                Console.WriteLine("Please select an option:");
+                Console.WriteLine("===============================================");
                 Console.WriteLine("1. Insert new student...");
                 Console.WriteLine("2. Display all the student list...");
                 Console.WriteLine("3. Calculator average mark...");
