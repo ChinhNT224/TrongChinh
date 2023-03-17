@@ -6,3 +6,11 @@ C:\Users\DELL\source\repos\TrongChinh\TrongChinh\obj\Debug\TrongChinh.csproj.Sug
 C:\Users\DELL\source\repos\TrongChinh\TrongChinh\obj\Debug\TrongChinh.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\TrongChinh\TrongChinh\obj\Debug\TrongChinh.exe
 C:\Users\DELL\source\repos\TrongChinh\TrongChinh\obj\Debug\TrongChinh.pdb
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\bin\Debug\TrongChinh.exe.config
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\bin\Debug\TrongChinh.exe
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\bin\Debug\TrongChinh.pdb
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\obj\Debug\TrongChinh.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\obj\Debug\TrongChinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\obj\Debug\TrongChinh.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\obj\Debug\TrongChinh.exe
+C:\Users\DELL\Documents\GitHub\TrongChinh\TrongChinh\TrongChinh\obj\Debug\TrongChinh.pdb

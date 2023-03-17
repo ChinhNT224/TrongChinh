@@ -117,11 +117,11 @@ namespace TrongChinh
                         break;
 
                     case 4:
-                        Console.WriteLine("\"==========         Find by ID      ==========\"");
+                        Console.WriteLine("=======================Find====================");
                         Console.WriteLine("6. Find by ID...");
-                        Console.WriteLine("7. Find by name...");
-                        Console.WriteLine("8. Find by class...");
-                        Console.WriteLine("9. Exit...");
+                        Console.WriteLine("7. Find by Name...");
+                        Console.WriteLine("8. Find by Class...");
+                        Console.WriteLine("9. Quit...");
                         Console.WriteLine("===============================================");
                         Console.Write("Choice: ");
 
@@ -159,6 +159,10 @@ namespace TrongChinh
                                     s.Print();
                                 }
                             }
+                        }
+                        if(choice == 9)
+                        {
+                            break;
                         }
                         break;
                     case 5:
