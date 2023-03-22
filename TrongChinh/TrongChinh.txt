@@ -1,0 +1,61 @@
+
+tong 30d
+
+
+1. Tạo một interface tên IStudent bao gồm các properties và methods: (Total: 4 points)
+a. Properties
+i. StudID (int) – (0.5 points)
+ii. StudName (string) – (0.5 points)
+iii. StudGender (string) – (0.5 points)
+iv. StudAge (int) – (0.5 points)
+v. StudClass (string) – (0.5 points)
+vi. StudAvgMark (float) - Read only property – (1.0 points)
+b. Methods
+i. void Print(); - (0.5 points)
+=> 4 diem
+
+2. Tạo một class tên Student (Total: 6 point)
+a. Triển khai (implement) inteface Istudent ở bước 1 (2.0 points)
+b. Method Print() sẽ hiển StudID, StudName, StudGender, StudAge, StudClass
+và StudAvgMark của student trên console. (1.0 points)
+c. Khai báo mảng MarkList kiểu int kích thước 3 (0.5 points).
+d. Tạo indexer sử dụng MarkList trong bước 2c (1.5 points).
+e. Tạo method CalAvg đẻ gán giá trị StudAvgMark bằng trung bình cộng của các
+phần tử trong mảng MarkList. (1.0 points)
+=> 6d
+
+3. Tạp menu để chọn (Figure.1) (Total : 1.0 points)
+Figure 1
+=> 1d
+
+
+4. Nếu chọn 1: (Total : 7.0 points)
+a. Tạo một student mới rồi nhập vào StudID, StudName, StudGender, StudAge,
+StudClass sau đó yêu cầu nhập vào 3 mark và thêm student đó vào indexer. (4.0
+points)
+b. Tạo Hastable (sử dụng chỉ 1 Hastable) để lưu Students trong bước a với key =
+StudID và value là student. (3.0 points)
+Figure 2. (insert new student)
+=>7d
+
+
+5. Nếu chọn 2: (Total : 3.0 points).
+Duyệt toàn bộ Hastable và thực hiện method Print từ interface IStudent.
+=> 3d
+
+6. Nếu chọn 3: (Total : 2.0 points).
+Duyệt toàn bộ Student trong Hastable, thực hiện method CalAvg và method Print
+=>2d
+
+7. Chọn 4 tìm kiếm student . (Total : 5.0 points).
+- Bằng id (1p)
+- Bằng name (1p)
+- Bằng class (1p)
+Các trường hợp có nhiều kết quả: hiển thị theo thứ tự alphabet (1p)
+Hiển thị bảng lựa chọn các option tìm kiếm (theo thứ tự trên) (1p)
+=>5d
+
+8. Chọn 5 thì quit chương trình. (Total : 2.0 points).
+Chú ý: Chấp nhận sử dụng Dictionary hoặc Hashtable
+=>2d
+***** HẾT *****
